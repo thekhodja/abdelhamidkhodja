@@ -29,9 +29,9 @@ bio: My research interests include using computational tools to aid in drug disc
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Drug Discovery and Development
+  - Computational Biochemistry
+  - Translational Research
 
 # Education to show in About widget
 education:
@@ -42,9 +42,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Biology
+      institution: American University of Sharjah
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -89,7 +89,7 @@ skills:
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:abdelhamidkhodja02@gmail.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
