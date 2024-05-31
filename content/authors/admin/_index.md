@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Hey! My name is Abdelhamid "Bioman" Khodja, a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly I am interested in drug discovery. During my time at AUS, I worked on developing novel antibacterial nanoparticles to create self-disinfecting fabrics.
+Hey, my name is Abdelhamid Khodja! But most people just call me Bioman. I'm a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly, I am interested in drug discovery. During my time at AUS, I worked on developing novel antibacterial nanoparticles to create self-disinfecting fabrics.
 {style="text-align: justify;"}
