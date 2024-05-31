@@ -31,7 +31,7 @@ bio: My research interests include using computational tools to aid in drug disc
 interests:
   - Drug Discovery and Development
   - Computational Biochemistry
-  
+  - Something else?
 
 # Education to show in About widget
 education:
