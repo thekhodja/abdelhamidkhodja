@@ -11,7 +11,7 @@ last_name: Khodja
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: '
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ bio: My research interests include using computational tools to aid in drug disc
 interests:
   - Drug Discovery and Development
   - Computational Biochemistry
-  - Translational Research
+  
 
 # Education to show in About widget
 education:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey! My name is Abdelhamid "Bioman" Khodja, a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly I am interested in drug discovery. During my time at AUS, I worked on developing novel antibacterial nanoparticles to create self-disinfecting fabrics.
 {style="text-align: justify;"}
