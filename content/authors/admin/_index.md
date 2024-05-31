@@ -66,6 +66,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
