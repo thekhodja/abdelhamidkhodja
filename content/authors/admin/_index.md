@@ -11,7 +11,7 @@ last_name: Khodja
 
 # Status emoji
 status:
-  icon: '
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -66,7 +66,6 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
