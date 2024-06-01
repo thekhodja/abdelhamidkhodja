@@ -31,17 +31,17 @@ bio: My research interests include using computational tools to aid in drug disc
 interests:
   - Drug Discovery and Development
   - Computational Biochemistry
-  - Something else?
+  - 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course:
+      institution:
+      year:
+    - course:
+      institution:
+      year:
     - course: BSc in Biology
       institution: American University of Sharjah
       year: 2024
