@@ -31,17 +31,10 @@ bio: My research interests include using computational tools to aid in drug disc
 interests:
   - Drug Discovery and Development
   - Computational Biochemistry
-  - 
 
 # Education to show in About widget
 education:
   courses:
-    - course:
-      institution:
-      year:
-    - course:
-      institution:
-      year:
     - course: BSc in Biology
       institution: American University of Sharjah
       year: 2024
