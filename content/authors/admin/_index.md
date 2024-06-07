@@ -29,7 +29,7 @@ bio: My research interests include using computational tools to aid in drug disc
 
 # Interests to show in About widget
 interests:
-  - Drug Discovery and Development
+  - Drug Discovery
   - Computational Biochemistry
 
 # Education to show in About widget
@@ -113,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-Hey, my name is Abdelhamid Khodja! But most people just call me Bioman. I'm a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly, I am interested in drug discovery. During my time at AUS, I worked on developing novel antibacterial nanoparticles to create self-disinfecting fabrics.
+Hey, my name is Abdelhamid Khodja! But most people just call me Bioman. I'm a recent Biology graduate from the American University of Sharjah. My research interests include computational biology and molecular dynamics (MD) simulations. Broadly, I am interested in computational drug discovery. During my time at AUS, I worked on developing and synthesizing novel antibacterial nanoparticles to create self-disinfecting fabrics.
 {style="text-align: justify;"}
