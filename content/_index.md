@@ -243,14 +243,14 @@ sections:
       address:
         street: ''
         city: Sharjah
-        region: ''
-        postcode: ''
+        # region: ''
+        # postcode: ''
         country: United Arab Emirates
         country_code: UAE
-      directions: ''
-      office_hours:
-        - ''
-        - ''
+      # directions: ''
+      # office_hours:
+      #  - ''
+      #  - ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '25.311743101757646'
