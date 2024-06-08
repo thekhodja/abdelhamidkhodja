@@ -241,7 +241,7 @@ sections:
       phone: ''
       appointment_url: 'https://calendly.com'
       address:
-        street: ''
+        street: 'American University of Sharjah'
         city: Sharjah
         # region: ''
         # postcode: ''
