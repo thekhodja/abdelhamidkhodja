@@ -253,13 +253,13 @@ sections:
         - ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '25.311743101757646'
+        longitude: '55.49272584108032'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/biokhodja'
         - icon: skype
           icon_pack: fab
           name: Skype Me
