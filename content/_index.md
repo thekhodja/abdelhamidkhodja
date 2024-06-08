@@ -242,11 +242,11 @@ sections:
       appointment_url: 'https://calendly.com'
       address:
         street: 'American University of Sharjah'
-        city: Sharjah
+        city: 'Sharjah'
         # region: ''
         # postcode: ''
-        country: United Arab Emirates
-        country_code: UAE
+        country: 'United Arab Emirates'
+        country_code: 'UAE'
       # directions: ''
       # office_hours:
       #  - ''
