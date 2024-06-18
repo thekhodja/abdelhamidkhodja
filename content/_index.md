@@ -65,7 +65,7 @@ sections:
         - title: BCE Learning Center Academic Tutor
           company: American University of Sharjah
           company_url: ''
-          company_logo: AUS.png
+          company_logo: AUS
           location: Sharjah
           date_start: '2023-08-01'
           date_end: '2024-06-01'
@@ -78,7 +78,7 @@ sections:
         - title: Undergraduate Research Assistant 
           company: Supramolecular & Nano-Chemistry Group (SNCG) @ AUS
           company_url: ''
-          company_logo: AUS.png
+          company_logo: AUS
           location: Sharjah
           date_start: '2023-03-01'
           date_end: '2024-06-01'
