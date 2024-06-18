@@ -75,20 +75,14 @@ sections:
               * Provide tutoring support for multiple courses including General Biology I (BIO 101), General Biology II (BIO 102), Introduction to Human Biology (BIO 103), General Chemistry I (CHM101), Organic Chemistry I (CHM 215), and Organic Chemistry II (CHM 216).
               * Successfully tutored over 250+ students with diverse academic backgrounds.
               * Instruct students on creating effective study systems, emphasizing prioritization of active learning over passive methods, and guiding students towards adopting efficient study habits.
-        - title: Undergraduate Research Assistant - Supramolecular & Nano-Chemistry Group (SNCG)
-          company: American University of Sharjah
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: Sharjah
-          date_start: '2023-03-01'
-          date_end: '2024-06-31'
-          description: |2-
-              Responsibilities include:
-
-              * Assistant to Dr. Mohammad Al-Sayah, Head of SNCG 
-              * Awarded the CAS Undergraduate Research Grant (2024) for our project entitled “Development of CD-PDA Hybrid Composites on Cellulose and Polyester Fabrics for Enhanced Antimicrobial Textiles”.
-              * Awarded the QUWA Research & Innovation Grant (2023) for our project entitled “Cellulose Fibers Modified with Carbon Dots: A Promising Approach for Development of Self-Disinfecting Fabrics”.
-              * Awarded the CAS Undergraduate Research Grant (2023) for our project entitled “Modification of Cellulose-Based Fibers with Antibacterial Nanoparticles for Development of Self-Disinfectant Fabrics”.       
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
 #  - block: accomplishments
