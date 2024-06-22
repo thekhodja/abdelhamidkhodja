@@ -44,8 +44,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: "DOI Link"
-   url: "https://doi.org/10.1007/s11274-023-03760-8"
+ - name: DOI Link
+   url: 'doi.org/10.1007/s11274-023-03760-8'
 
 url_pdf: 'https://link.springer.com/article/10.1007/s11274-023-03760-8'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
