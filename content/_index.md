@@ -198,7 +198,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -206,20 +206,20 @@ sections:
     design:
       columns: '2'
       view: Citation
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
 #  - block: collection
 #    id: talks
 #    content:
