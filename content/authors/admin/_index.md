@@ -32,7 +32,6 @@ interests:
   - Drug Discovery
   - Computational Biochemistry
   - Computational Structural Biology
-  - Protein Design
 
 # Education to show in About widget
 education:
