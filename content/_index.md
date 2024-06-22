@@ -205,7 +205,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: List
+      view: Compact
   - block: collection
     content:
       title: Recent Publications
